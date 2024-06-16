@@ -28,7 +28,7 @@ This is a responsive weather application built using React. It allows users to s
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-varadevipriya/react-weather-app.git
+git clone https://github.com/varadevipriya/weather_report.git
 
   
 // Navigate To The Project Directory:
@@ -86,7 +86,7 @@ React Icons for the beautiful icons.
 
 - Replace `YOUR_API_KEY_HERE` with the actual API key in the `Weather.js` file.
 - Replace `C:\Users\Dell\Downloads\localhost_3001_ (1).png` and `C:\Users\Dell\Downloads\localhost_3001_.png` with the actual paths  screenshots.
-- Update the GitHub repository URL (`https://github.com/your-varadevipriya/react-weather-app.git`) 
+- Update the GitHub repository URL (`https://github.com/varadevipriya/weather_report.git`) 
 
 // This `README.md` file provides an overview of the project, installation instructions, usage guidelines, and other relevant information to help users and contributors understand and use the application.
 
