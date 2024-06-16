@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React, { useState, useEffect } from 'react';
 import './weather.css';
 import { FaSearch, FaWind } from 'react-icons/fa';
